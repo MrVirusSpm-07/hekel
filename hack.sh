@@ -25,8 +25,8 @@ echo $blue
             echo $purple
     sleep 1
 echo "1). RISET HP ORANG"
-echo "2). APK HECK AKUN"
-echo "3). WEB BERHADIAH"
+echo "2). APK HECK AKUN WA"
+echo "3). APK HACK AKUN FF"
     echo
  echo
 read -p "masukan pilihan =======>  " durm
