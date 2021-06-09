@@ -21,10 +21,12 @@ echo
    echo $red"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 sleep 2
 echo
-echo                                                                                                                                                                               echo $green"["$cyan"01"$green"]"$cyan" HACK AKUN FF"
+echo
+echo $green"["$cyan"01"$green"]"$cyan" HACK AKUN FF"
 sleep 1
   echo $red"+++++++++++++++++++++++++++++++++++++++++++++++++++"
-sleep 1                                                                                                                                                                            echo $green"["$cyan"02"$green"]"$cyan" HACK AKUN ML"
+sleep 1
+echo $green"["$cyan"02"$green"]"$cyan" HACK AKUN ML"
 sleep 1
   echo $red"+++++++++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
